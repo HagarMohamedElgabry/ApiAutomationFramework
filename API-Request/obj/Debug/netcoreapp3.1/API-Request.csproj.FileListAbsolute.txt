@@ -1,0 +1,9 @@
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Request\bin\Debug\netcoreapp3.1\API-Request.deps.json
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Request\bin\Debug\netcoreapp3.1\API-Request.dll
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Request\bin\Debug\netcoreapp3.1\API-Request.pdb
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Request\obj\Debug\netcoreapp3.1\API-Request.csprojAssemblyReference.cache
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Request\obj\Debug\netcoreapp3.1\API-Request.AssemblyInfoInputs.cache
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Request\obj\Debug\netcoreapp3.1\API-Request.AssemblyInfo.cs
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Request\obj\Debug\netcoreapp3.1\API-Request.csproj.CoreCompileInputs.cache
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Request\obj\Debug\netcoreapp3.1\API-Request.dll
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Request\obj\Debug\netcoreapp3.1\API-Request.pdb

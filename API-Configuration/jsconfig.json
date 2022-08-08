@@ -1,0 +1,4 @@
+{
+  "ApiUrl": "http://dummy.restapiexample.com",
+  "GetAllEmployees": "/api/v1/employees"
+}

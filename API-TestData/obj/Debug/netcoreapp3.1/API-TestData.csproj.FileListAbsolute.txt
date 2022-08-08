@@ -1,0 +1,9 @@
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-TestData\bin\Debug\netcoreapp3.1\API-TestData.deps.json
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-TestData\bin\Debug\netcoreapp3.1\API-TestData.dll
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-TestData\bin\Debug\netcoreapp3.1\API-TestData.pdb
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-TestData\obj\Debug\netcoreapp3.1\API-TestData.AssemblyInfoInputs.cache
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-TestData\obj\Debug\netcoreapp3.1\API-TestData.AssemblyInfo.cs
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-TestData\obj\Debug\netcoreapp3.1\API-TestData.csproj.CoreCompileInputs.cache
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-TestData\obj\Debug\netcoreapp3.1\API-TestData.dll
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-TestData\obj\Debug\netcoreapp3.1\API-TestData.pdb
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-TestData\obj\Debug\netcoreapp3.1\API-TestData.csprojAssemblyReference.cache

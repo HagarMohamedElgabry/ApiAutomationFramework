@@ -1,0 +1,9 @@
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Reports\bin\Debug\netcoreapp3.1\API-Reports.deps.json
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Reports\bin\Debug\netcoreapp3.1\API-Reports.dll
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Reports\bin\Debug\netcoreapp3.1\API-Reports.pdb
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Reports\obj\Debug\netcoreapp3.1\API-Reports.AssemblyInfoInputs.cache
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Reports\obj\Debug\netcoreapp3.1\API-Reports.AssemblyInfo.cs
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Reports\obj\Debug\netcoreapp3.1\API-Reports.csproj.CoreCompileInputs.cache
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Reports\obj\Debug\netcoreapp3.1\API-Reports.dll
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Reports\obj\Debug\netcoreapp3.1\API-Reports.pdb
+C:\Users\Hagar.Abdelsamad\source\repos\POC-ApiAutomationFramework\API-Reports\obj\Debug\netcoreapp3.1\API-Reports.csprojAssemblyReference.cache
